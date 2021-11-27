@@ -1,5 +1,3 @@
-
-
 # Halo semua! 
 
 Perkenalkan nama saya **Mochammad Arif Rizki**.
