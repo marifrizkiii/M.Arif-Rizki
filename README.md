@@ -11,7 +11,7 @@ Saya **Mengikuti Beasiswa** di [Dicoding](https://www.dicoding.com/).
 * Memulai Pemrograman Dengan Python [sertifikasi dari Dicoding](https://www.dicoding.com/certificates/JLX13K4D6P72).
 * Belajar Dasar Git dengan GitHub [sertifikasi dari Dicoding](https://www.dicoding.com/certificates/JLX13K4D6P72). 
 
-Saya **Mengikuti Kuliah ** di [ITTS Open Course](https://opencourse.itts.ac.id/).
+Saya **Mengikuti Kuliah** di [ITTS Open Course](https://opencourse.itts.ac.id/).
 * Telah Menyelesaikan Kuliah IPv6
 
 Jika kamu tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mochammad-arif-rizki-046663172/).
