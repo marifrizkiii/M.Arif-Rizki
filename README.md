@@ -10,6 +10,7 @@ Saya **Mengikuti Beasiswa** di [Dicoding](https://www.dicoding.com/).
 * Architecting on AWS (Membangun Arsitektur Cloud di AWS) [sertifikasi dari Dicoding](https://www.dicoding.com/certificates/MRZMKV46NPYQ).
 * Memulai Pemrograman Dengan Python [sertifikasi dari Dicoding](https://www.dicoding.com/certificates/JLX13K4D6P72).
 * Belajar Dasar Git dengan GitHub [sertifikasi dari Dicoding](https://www.dicoding.com/certificates/JLX13K4D6P72). 
+* Belajar Prinsip Pemrograman SOLID [sertifikasi dari Dicoding](https://www.dicoding.com/certificates/MEPJL4384Z3V).
 
 Saya **Mengikuti Kuliah** di [ITTS Open Course](https://opencourse.itts.ac.id/).
 * Telah Menyelesaikan Kuliah IPv6
